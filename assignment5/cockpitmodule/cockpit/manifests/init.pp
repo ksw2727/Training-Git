@@ -1,3 +1,4 @@
+
 class cockpit {
          package { 'cockpit'                                         :
                  ensure => present                                   ,
